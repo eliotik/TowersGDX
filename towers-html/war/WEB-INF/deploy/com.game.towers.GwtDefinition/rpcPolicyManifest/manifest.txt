@@ -1,0 +1,2 @@
+# Module com.game.towers.GwtDefinition
+# RPC service class, partial path of RPC policy file
